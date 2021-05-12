@@ -1,0 +1,13 @@
+{% if cookiecutter.git_ignore_data == 'Yes' %}
+data/*
+data/ 
+{% endif %}
+{% if cookiecutter.git_ignore_api_keys_or_passwords == 'Yes' %}
+keys.sh 
+{% endif %}
+{% if cookiecutter.main_language == "Python" %}
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+{% endif %}
+
+
