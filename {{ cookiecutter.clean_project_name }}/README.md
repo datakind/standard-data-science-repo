@@ -1,6 +1,6 @@
 # {{ cookiecutter.project_name }}
 
-{% now 'utc', '%b %Y' %}
+{% now 'utc', '%b %Y' %} DataCorps project for [DataKind](www.datakind.org)
 
 Project Partner: {{ cookiecutter.project_partner_organization }}
 
@@ -19,6 +19,3 @@ DataKind Program Manager: {{ cookiecutter.datakind_program_manager }}
 ## Project Description 
 
 {{ cookiecutter.project_description }}
-
-
-
