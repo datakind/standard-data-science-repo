@@ -7,5 +7,5 @@
 ####################
 
 
-EXPORT {{ cookiecutter.clean_project_name }}_password=""
-EXPORT {{ cookiecutter.clean_project_name }}_api_key=""
+EXPORT {{ cookiecutter.clean_project_name.upper() }}_PASSWORD=""
+EXPORT {{ cookiecutter.clean_project_name.upper() }}_API_KEY=""
