@@ -7,11 +7,11 @@
     "data_ambassador": "Data Ambassador Name",
     "project_manager": "Project Manager Name",  
     "datakind_volunteers": "Name 1, Name 2, Name 3... (separated by commas)", 
-    "project_description": "In 2-4 sentences what is the project background, problem and solution is.",
+    "project_description": "In 2-4 sentences what is the project background, problem and solution?",
     "main_language": ["Python", "R", "Other"], 
     "git_ignore_data": ["Yes", "No"], 
     "git_ignore_api_keys_or_passwords": ["Yes", "No"], 
     "open_source_license": ["MIT", "BSD-3-Clause", "No license file"], 
-    "datakind_tech_lead": "DataKind Tech Lead Name", 
-    "datakind_program_manager": "DataKind Program Manager Name"
+    "datakind_tech_lead": ["Phil Azar", "Emily Yelverton"], 
+    "datakind_program_manager": ["Mitali (Tali) Ayyangar", "Mallory Sheff", "Caitlin Augustin"]
 }
